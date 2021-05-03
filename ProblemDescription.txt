@@ -1,0 +1,8 @@
+1- Exercise on Strings
+
+Write a program that computes your initials from your full name and displays them.
+
+2- Exercise on File IO
+
+ Write an example that counts the number of times a particular character, such as e, appears in a file. The character can be specified
+at the command line.
